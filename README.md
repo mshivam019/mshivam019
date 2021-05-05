@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there 👋, my name is Shivam Mishra
+#### I am a Computer Science Engineering Student.
+![I am a Computer Science Engineering Student.](https://raw.githubusercontent.com/mshivam019/mshivam019/master/Banner.png)
 
-<!--
-**mshivam019/mshivam019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Developer, I love trying something new. Always looking for more opportunities to learn. Thank you for checking out!
 
-Here are some ideas to get you started:
+Skills: Java / C# / JS / HTML / CSS / XML / C++ / Dev-ops
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Kotlin 
+- 💬 Ask me about how am I doing? 
+- 📫 How to reach me: mshivam019@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I love space and stars! 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mshivam019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivam-mishra-019/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mshivam019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mshivam019/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mshivam190)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mshivam019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mshivam019.github.io/portfolio/)  
+
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+![Dino-My Trex friend](https://raw.githubusercontent.com/mshivam019/mshivam019/master/dino.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshivam019)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/mshivam019)  
