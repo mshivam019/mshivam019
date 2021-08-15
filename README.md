@@ -12,4 +12,4 @@ Skills: Java / C# / JS / HTML / CSS / XML / C++ / Dev-ops
 - 😄 Pronouns: He/Him  
 
 
-Link to my Portfolio - [This is a link](https://mshivam019.github.io/portfolio-v0.1/)
+Link to my [Portfolio](https://mshivam019.github.io/portfolio-v0.1/)
