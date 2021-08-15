@@ -11,6 +11,3 @@ Skills: Java / C# / JS / HTML / CSS / XML / C++ / Dev-ops
 - 💬 Ask me about how am I doing? 
 - 📫 How to reach me: mshivam019@gmail.com 
 - 😄 Pronouns: He/Him  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshivam019)](https://github.com/anuraghazra/github-readme-stats)
-
