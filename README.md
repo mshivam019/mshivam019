@@ -9,5 +9,4 @@ Skills: Java / C# / JS / HTML / CSS / XML / C++ / Dev-ops
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Kotlin 
 - 💬 Ask me about how am I doing? 
-- 📫 How to reach me: mshivam019@gmail.com 
 - 😄 Pronouns: He/Him  
