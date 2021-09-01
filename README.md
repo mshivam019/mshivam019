@@ -4,7 +4,7 @@
 
 I am a Developer, I love trying something new. Always looking for more opportunities to learn. Thank you for checking out!
 
-Skills: Java / C# / JS / HTML / CSS / XML / C++ / Dev-ops
+Skills: Java / JS / HTML / CSS / XML / C++ / Dev-ops
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Kotlin 
