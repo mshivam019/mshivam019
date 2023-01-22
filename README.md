@@ -12,6 +12,6 @@ Skills: Java / JS / HTML / CSS / XML / C++ / Dev-ops
 - 😄 Pronouns: He/Him  
 
 
-Link to my [Portfolio](https://mshivam019.github.io/), [Resume](https://drive.google.com/file/d/1aVHDpp9r0Ueh1fbjUgI9Lwi51pHo9UtV/view) and [Certificates](https://drive.google.com/drive/folders/1q0KZSNVHhTny67mdtN_LUV7pMb8y6T3O?usp=sharing).
+Link to my [Portfolio](https://mshivam019-portfolio.vercel.app/), [Resume](https://drive.google.com/file/d/1aVHDpp9r0Ueh1fbjUgI9Lwi51pHo9UtV/view) and [Certificates](https://drive.google.com/drive/folders/1q0KZSNVHhTny67mdtN_LUV7pMb8y6T3O?usp=sharing).
 
 
