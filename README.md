@@ -6,8 +6,8 @@ I am a Developer, I love trying something new. Always looking for more opportuni
 
 Skills: Java / JS / HTML / CSS / XML / C++ / Dev-ops
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Kotlin 
+- 🔭 I’m currently working on my web-dev projects. 
+- 🌱 I’m currently learning Graphs 
 - 💬 Ask me about how am I doing? 
 - 😄 Pronouns: He/Him  
 
