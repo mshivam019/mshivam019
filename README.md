@@ -4,7 +4,7 @@
 
 I am a Developer, I love trying something new. Always looking for more opportunities to learn. Thank you for checking out!
 
-Skills: Java / JS / HTML / CSS / XML / C++ / Dev-ops
+Skills: Java / Golang / Next.js / Angular / Kotlin / Jetpack Compose / XML / Docker / Dev-ops
 
 - 🔭 I’m currently working on my web-dev projects. 
 - 🌱 I’m currently learning Graphs 
@@ -15,4 +15,3 @@ Skills: Java / JS / HTML / CSS / XML / C++ / Dev-ops
 Link to my [Portfolio](https://mshivam019.vercel.app), [Resume](https://drive.google.com/file/d/1aVHDpp9r0Ueh1fbjUgI9Lwi51pHo9UtV/view) and [Certificates](https://drive.google.com/drive/folders/1q0KZSNVHhTny67mdtN_LUV7pMb8y6T3O?usp=sharing).
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshivam019&langs_count=10&layout=compact&theme=transparent&text_color=0096FF)
