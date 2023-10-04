@@ -1,6 +1,6 @@
 <h1>Hello there 👋, my name is Shivam Mishra</h1> 
-<h3>I am a Computer Science Engineering Student. Visit my [Link Tree](https://linktr.ee/mshivam019)</h3>
-![alt](https://raw.githubusercontent.com/mshivam019/mshivam019/master/Banner.png)
+<h3>I am a Computer Science Engineering Student. Visit my <a href="https://linktr.ee/mshivam019" target="_blank">Link Tree</a></h3>
+<img src="https://raw.githubusercontent.com/mshivam019/mshivam019/master/Banner.png" width="100%" height="100%"/>
 
 I am a Developer, I love trying something new. Always looking for more opportunities to learn. Thank you for checking out!
 
