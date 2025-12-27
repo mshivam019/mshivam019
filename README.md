@@ -19,7 +19,7 @@
 
 ### 🚀 **About Me**
 I am a **Product-Focused Engineering Lead** specializing in **AI Agents, RAG Architectures, and HR Tech**. 
-Currently, I architect and build end-to-end AI systems—from designing vector database schemas to deploying autonomous interview assistants. I don't just write code; I design the systems that make AI useful for business.
+Currently, I architect and build end-to-end AI systems from designing vector database schemas to deploying autonomous interview assistants. I don't just write code; I design the systems that make AI useful for business.
 
 - 🔭 **Currently Working on:** Autonomous AI Recruiting Agents & Resume Parsing Pipelines.
 - 🌱 **Currently Exploring:** Advanced RAG patterns, Multi-Agent Systems, and System Optimization.
@@ -39,16 +39,7 @@ Currently, I architect and build end-to-end AI systems—from designing vector d
 
 ---
 
-### 📈 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mshivam019&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshivam019&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
-
----
-
 ### 🤝 **Let's Connect**
 I am always open to discussing **AI Architecture**, **Startup ideas**, or **Consulting opportunities**.
-
+<a href="mailto:mshivam019@gmail.com">mshivam019@gmail.com</a> 
 </p>
