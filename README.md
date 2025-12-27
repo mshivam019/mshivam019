@@ -51,7 +51,4 @@ Currently, I architect and build end-to-end AI systems—from designing vector d
 ### 🤝 **Let's Connect**
 I am always open to discussing **AI Architecture**, **Startup ideas**, or **Consulting opportunities**.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mshivam019/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="mshivam019" height="30" width="40" /></a>
-<a href="https://x.com/mshivam0019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
